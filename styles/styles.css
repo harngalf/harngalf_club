@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-size: 2.5rem;
+    background-color: rgb(245, 111, 49);
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+
+}
+
+.name {
+    color: rgba(5, 5, 63, 0.808);
+    font-size: 1.5rem;
+    margin-top: 3.5em;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+#entrada {
+    margin-right: 7%;
+    margin-left: 7%;
+}
+
+main {
+    background-color: rgba(228, 157, 26, 0.521);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+main h2 {
+    color: rgba(57, 11, 100, 0.753);
+    font-size: 2rem;
+}
+
+footer {
+    text-align:center;
+    font-size: 1.2rem;    
+}
+
+#imagen-fondo {
+    width: 100%;
+}
+
+.content, h2 {
+    
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+} 
+
+.content, .sign {
+    color: rgb(6, 6, 112);
+    margin-top: 5%;
+    margin-right: 3%;
+    text-align: right;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+
+
+.twitter {
+    width: 45px;
+}
+
+.linkedin {
+    
+    width: 45px;
+}
+
+.platzi {
+    width: 25px;
+}
+
+.contruction {
+    width: 150px;
+    margin-top: 2rem;
+    margin-right: 0%;
+    margin-left: 0%;
+}

@@ -1,0 +1,21 @@
+
+@media (min-width: 800px) {
+
+    main {
+        width: 100%;
+        background-color: rgba(128, 67, 119, 0.507);
+        text-align: center;
+        margin-top: 2rem;
+     
+    }
+    
+    #imagen-fondo {
+        width: 100%;
+             
+    
+    }
+    
+
+    
+}
+
